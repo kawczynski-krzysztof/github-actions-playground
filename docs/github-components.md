@@ -1,4 +1,4 @@
-[Home](index.md)
+[Home](index.md) [<Previous](github-gettingstarted.md) [Next>](github-advanced.md)
 # Identify the components of GitHub Actions
 Here, you'll learn about the basic components of a GitHub Actions workflow file.
 > Dorothy followed her through many of the beautiful rooms in her castle.
